@@ -1,0 +1,34 @@
+environments:
+  - name: staging
+    branches: [dev, dev/*]
+    targetNamePrefix: environmentName
+  - name: production
+    branches: [main]
+    targetAccess: public
+
+target:
+  experience:
+    configuration:
+      genre: naval
+      playableDevices: [computer]
+      privateServerPrice: 50
+      enableStudioAccessToApis: true
+      # icon: marketing/game-icon.png
+      # thumbnails:
+      #   - marketing/game-thumbnail-fall-update.png
+      #   - marketing/game-thumbnail-default.png
+    places:
+      start:
+        file: lobby.rbxlx
+        configuration:
+          name: Pirate Wars!
+          description: |-
+            Duke it out on the high seas in your pirate ship!
+
+            🍂 Fall update: new cannons, new ship types!
+          maxPlayerCount: 100
+      battle:
+        file: battle.rbxlx
+        configuration:
+          name: Pirate Wars! (Battle)
+          description: The place you get teleported to when you join a battle

@@ -729,7 +729,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<int name="BorderSizePixel">1</int>
 					<bool name="ClipsDescendants">false</bool>
 					<bool name="Draggable">false</bool>
-					<token name="Font">4</token>
+					<token name="Font">15</token>
 					<int name="LayoutOrder">0</int>
 					<float name="LineHeight">1</float>
 					<int name="MaxVisibleGraphemes">-1</int>
@@ -758,7 +758,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<token name="SizeConstraint">0</token>
 					<int64 name="SourceAssetId">-1</int64>
 					<BinaryString name="Tags"></BinaryString>
-					<string name="Text">Getting Started</string>
+					<string name="Text">Pirate Wars: Battle</string>
 					<Color3 name="TextColor3">
 						<R>1</R>
 						<G>1</G>

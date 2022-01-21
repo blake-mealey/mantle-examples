@@ -592,7 +592,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 			<UniqueId name="UniqueId">5f50fa457046daf801f8fdc600019f62</UniqueId>
 			<token name="VirtualCursorMode">0</token>
 		</Properties>
-		<Item class="ScreenGui" referent="RBX84E3BC74D367490F81B2645962572E7C">
+		<Item class="ScreenGui" referent="RBX641408BFB96B4F0898F0F44DC35C34EF">
 			<Properties>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<bool name="AutoLocalize">true</bool>
@@ -604,10 +604,10 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 				<Ref name="RootLocalizationTable">null</Ref>
 				<int64 name="SourceAssetId">-1</int64>
 				<BinaryString name="Tags"></BinaryString>
-				<UniqueId name="UniqueId">1aee36d55b26c5d801fba5380002508b</UniqueId>
+				<UniqueId name="UniqueId">7f8bc54c4215a8bf01fba539000253d0</UniqueId>
 				<token name="ZIndexBehavior">1</token>
 			</Properties>
-			<Item class="TextLabel" referent="RBXE6EC88272E39454BA2AC6A50AD635530">
+			<Item class="TextLabel" referent="RBX66B104C3F60445F5B5741C4715388ABF">
 				<Properties>
 					<bool name="Active">false</bool>
 					<Vector2 name="AnchorPoint">
@@ -680,11 +680,11 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<bool name="TextWrapped">false</bool>
 					<token name="TextXAlignment">2</token>
 					<token name="TextYAlignment">1</token>
-					<UniqueId name="UniqueId">1aee36d55b26c5d801fba5380002508c</UniqueId>
+					<UniqueId name="UniqueId">7f8bc54c4215a8bf01fba539000253d1</UniqueId>
 					<bool name="Visible">true</bool>
 					<int name="ZIndex">1</int>
 				</Properties>
-				<Item class="UIStroke" referent="RBXDCF6AA8184614F2FA2DBC54328404297">
+				<Item class="UIStroke" referent="RBX1ADA62D11E4240648A06F4F4B426C399">
 					<Properties>
 						<token name="ApplyStrokeMode">0</token>
 						<BinaryString name="AttributesSerialize"></BinaryString>
@@ -700,11 +700,11 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 						<BinaryString name="Tags"></BinaryString>
 						<float name="Thickness">1</float>
 						<float name="Transparency">0</float>
-						<UniqueId name="UniqueId">1aee36d55b26c5d801fba5380002508e</UniqueId>
+						<UniqueId name="UniqueId">7f8bc54c4215a8bf01fba539000253d3</UniqueId>
 					</Properties>
 				</Item>
 			</Item>
-			<Item class="TextLabel" referent="RBXA224CB4F7B5E45C0A5C35C2C26E0DA50">
+			<Item class="TextLabel" referent="RBX8D353D69369A48289EC5840E5C9592AA">
 				<Properties>
 					<bool name="Active">false</bool>
 					<Vector2 name="AnchorPoint">
@@ -729,7 +729,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<int name="BorderSizePixel">1</int>
 					<bool name="ClipsDescendants">false</bool>
 					<bool name="Draggable">false</bool>
-					<token name="Font">4</token>
+					<token name="Font">15</token>
 					<int name="LayoutOrder">0</int>
 					<float name="LineHeight">1</float>
 					<int name="MaxVisibleGraphemes">-1</int>
@@ -758,7 +758,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<token name="SizeConstraint">0</token>
 					<int64 name="SourceAssetId">-1</int64>
 					<BinaryString name="Tags"></BinaryString>
-					<string name="Text">Getting Started</string>
+					<string name="Text">Pirate Wars: Lobby</string>
 					<Color3 name="TextColor3">
 						<R>1</R>
 						<G>1</G>
@@ -777,11 +777,11 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 					<bool name="TextWrapped">false</bool>
 					<token name="TextXAlignment">2</token>
 					<token name="TextYAlignment">1</token>
-					<UniqueId name="UniqueId">1aee36d55b26c5d801fba5380002508d</UniqueId>
+					<UniqueId name="UniqueId">7f8bc54c4215a8bf01fba539000253d2</UniqueId>
 					<bool name="Visible">true</bool>
 					<int name="ZIndex">1</int>
 				</Properties>
-				<Item class="UIStroke" referent="RBX34882705AECE40958E219027D88B09F9">
+				<Item class="UIStroke" referent="RBXACED7B24061843B2BA41A38621C72C4C">
 					<Properties>
 						<token name="ApplyStrokeMode">0</token>
 						<BinaryString name="AttributesSerialize"></BinaryString>
@@ -797,7 +797,7 @@ gcLgc4RKxr21zq2UlJSM]]></BinaryString>
 						<BinaryString name="Tags"></BinaryString>
 						<float name="Thickness">2</float>
 						<float name="Transparency">0</float>
-						<UniqueId name="UniqueId">1aee36d55b26c5d801fba5380002508f</UniqueId>
+						<UniqueId name="UniqueId">7f8bc54c4215a8bf01fba539000253d4</UniqueId>
 					</Properties>
 				</Item>
 			</Item>
