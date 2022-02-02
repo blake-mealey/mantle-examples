@@ -12,6 +12,6 @@ target:
       start:
         file: game.rbxlx
         configuration:
-          name: I changed the Mantle config
+          name: Getting Started with Mantle
           description: |-
             Made with Mantle
