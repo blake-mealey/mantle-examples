@@ -1,20 +1,21 @@
 environments:
-  - name: dev
-    targetNamePrefix: environmentName
-  - name: prod
+  - label: dev
+    targetNamePrefix: environmentLabel
+  - label: prod
     targetAccess: public
 
 target:
   experience:
+    icon: marketing/game-icon.png
+    thumbnails:
+      - marketing/game-thumbnail-default.png
+      - marketing/game-thumbnail-fall-update.png
     configuration:
       genre: naval
       playableDevices: [computer]
-      privateServerPrice: 50
+      privateServers:
+        price: 50
       enableStudioAccessToApis: true
-      icon: marketing/game-icon.png
-      thumbnails:
-        - marketing/game-thumbnail-default.png
-        - marketing/game-thumbnail-fall-update.png
     places:
       start:
         file: lobby.rbxlx

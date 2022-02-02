@@ -1,7 +1,7 @@
 environments:
-  - name: dev
-    targetNamePrefix: environmentName
-  - name: prod
+  - label: dev
+    targetNamePrefix: environmentLabel
+  - label: prod
     targetAccess: public
 
 target:
@@ -12,6 +12,6 @@ target:
       start:
         file: game.rbxlx
         configuration:
-          name: Getting Started with Mantle
+          name: I changed the Mantle config
           description: |-
             Made with Mantle
